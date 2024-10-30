@@ -1,0 +1,14 @@
+
+
+Windows 10 :
+
+Ctrl + Mayús + N : crea una nueva carpeta en el escritorio o el Explorador de archivos.
+F2: Renombrar carpeta
+Abrir recortes: Windows + Mayús + S
+
+
+Chrome:
+
+Abrir una ventana nueva -> Ctrl + N
+Abrir tu página principal en la pestaña actual -> Alt + Inicio
+Alr + Espacio --> abre menu contextual
